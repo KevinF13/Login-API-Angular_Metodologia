@@ -1,9 +1,8 @@
 {
-  "/api/*": {
-    "target": "http://deployMetodologia.somee.com/",
+  "/*": {
+    "target": "https://apimetodologias.azurewebsites.net/",
     "secure": false,
     "logLevel": "debug",
-    "changeOrigin":true
-    
-  }
+    "changeOrigin":true  
+  }
 }
