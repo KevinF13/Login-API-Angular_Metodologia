@@ -3,6 +3,5 @@
     "target": "https://apimetodologias.azurewebsites.net/",
     "secure": false,
     "logLevel": "debug",
-    "changeOrigin":true  
-  }
+    "changeOrigin":true}
 }
